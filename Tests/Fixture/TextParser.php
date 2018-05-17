@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Parser\Tests\Fixtures;
+namespace Viserio\Component\Parser\Tests\Fixture;
 
 use Viserio\Component\Contract\Parser\Parser as ParserContract;
 
